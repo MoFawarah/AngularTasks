@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\about-us\\about-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\about-us\\about-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\about-us\\about-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\about-us\\about-us.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|c:\\users\\orange\\desktop\\wep api core tasks\\angularproject\\angularproject.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8239AEDA-05EC-48BB-BDE3-A4E3278D215E}|angularproject.client\\angularproject.client.esproj|solutionrelative:angularproject.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "angularproject.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T12:51:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "angularproject.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T12:51:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "angularproject.client\\src\\app\\home\\home.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T12:39:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "angularproject.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T12:36:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "about-us.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\about-us\\about-us.component.ts",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\about-us\\about-us.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\about-us\\about-us.component.ts",
+              "RelativeToolTip": "angularproject.client\\src\\app\\about-us\\about-us.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T10:23:13.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\angular.json",
+              "RelativeDocumentMoniker": "angularproject.client\\angular.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\angular.json",
+              "RelativeToolTip": "angularproject.client\\angular.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T10:14:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularproject.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T10:00:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\index.html",
+              "RelativeToolTip": "angularproject.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T09:57:28.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "about-us.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\about-us\\about-us.component.html",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\about-us\\about-us.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\about-us\\about-us.component.html",
+              "RelativeToolTip": "angularproject.client\\src\\app\\about-us\\about-us.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T09:56:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularproject.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Wep API CORE TASKS\\AngularProject\\angularproject.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularproject.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T09:11:59.252Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
